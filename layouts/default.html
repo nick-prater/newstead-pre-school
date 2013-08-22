@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Newstead Road Pre-School - <%= @item[:title] %></title>
+    <link rel="stylesheet" href="/style.css">
+    <meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
+  </head>
+  <body>
+    <div id="main">
+      <div id="page_heading">
+        <h1><%= @item[:title] %></h1>
+      </div>
+      <div>
+        <%= yield %>
+      </div>
+    </div>
+    <div id="sidebar">
+
+      <div>
+        <img src="/Newstead_Logo-Transparent-Colour.png" alt="Newstead Pre-School Logo" width="100%" />
+
+        <h2>Policies</h2>
+        <ul>
+          <li><a href="/policies/complaints.html">Complaints</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <small>registered charity number 1047690</small>
+      </div>
+
+    </div>
+  </body>
+</html>

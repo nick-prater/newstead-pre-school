@@ -1,0 +1,32 @@
+---
+Title: Where to find us
+---
+<script src="/js/OpenLayers.js"></script>
+
+<h1>Where to find us</h1>
+
+<address>
+	Newstead Road Pre-School<br />
+	Compton House<br />
+	6 Birch Grove<br />
+	Lee<br />
+	London<br />
+	SE12 0SU
+	<p>
+	Telephone: 020 8857 9500
+	</p>
+</address>
+
+<div id="map_container"></div>
+
+<script>
+	map = new OpenLayers.Map("map_container");
+	map.addLayer(new OpenLayers.Layer.OSM());
+	var fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+	var toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+	var position = new OpenLayers.LonLat(0.01088, 51.44729).transform(fromProjection, toProjection);
+	var zoom = 17;
+
+
+	map.setCenter(position, zoom);
+</script>

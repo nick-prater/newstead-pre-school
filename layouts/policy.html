@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Newstead Road Pre-School - <%= @item[:title] %></title>
+	<link rel="stylesheet" href="/style.css">
+	<meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
+</head>
+
+<body>
+	<div id="main">
+		<div id="page_heading">
+			<h1><%= @item[:title] %></h1>
+		</div>
+		<div>
+			<%= yield %>
+		</div>
+		<hr />
+		<% if @item[:review_date] %>
+		<div id="policy_footer">
+			This policy was adpoted by the trustees of Newstead Road Pre-school on <%= @item[:adpoted_date] %>.
+			<br />
+			It will be reviewed on or before <%= @item[:review_date] %>.
+			<br />
+			<br />
+		</div>
+		<% end %>
+
+		<div>
+			<address>Newstead Road Pre-School,  6 Birch Grove,  Lee,  London,  SE12 0SU</address>
+		</div>
+	    </div>
+
+
+	    <div id="sidebar">
+
+		<div>
+			<div id="sidebar_logo">
+				<a href='/'>
+					<img src="/Newstead_Logo-Transparent-Colour.png" alt="Newstead Pre-School Logo" width="100%" />
+				</a>
+			</div>
+			<ul>
+				<li><a href="/about/">About Us</a></li>
+				<li><a href="/opening_hours/">Opening Hours</a></li>
+				<li><a href="/location/">Location</a></li>
+				<li><a href="/staff/">Staff</a></li>
+				<li><a href="/trustees/">Trustees</a></li>
+			</ul>
+			<h2><a href="/policies/">Policies</a></h2>
+		        <ul>
+				<li><a href="/policies/child_rights_and_entitlements.html">Children's Rights and Entitlements</a></li>
+				<li><a href="/policies/looked_after_children.html">Looked After Children</a></li>
+				<li><a href="/policies/missing_child.html">Missing Child</a></li>
+				<li><a href="/policies/uncollected_child.html">Uncollected Child</a></li>
+				<li><a href="/policies/complaints.html">Complaints</a></li>
+				<li><a href="/policies/equal_opportunities.html">Equal Opportunities</a></li>
+				<li><a href="/policies/special_educational_needs.html">Special Educational Needs</a></li>
+				<li><a href="/policies/managing_behaviours.html">Managing Behaviour</a></li>
+				<li><a href="/policies/administering_medicines.html">Administering Medicines</a></li>
+				<li><a href="/policies/sick_or_infectious_children.html">Sick or Infectious Children</a></li>
+				<li><a href="/policies/risk_assessment.html">Risk Assessment</a></li>
+				<li><a href="/policies/health_and_safety.html">Health and Safety</a></li>
+				<li><a href="/policies/smoking.html">Smoking</a></li>
+			</ul>
+		</div>
+
+		<div id="sidebar_footer">
+			<small>registered charity number 1047690</small>
+		</div>
+	</div>
+</body>
+</html>

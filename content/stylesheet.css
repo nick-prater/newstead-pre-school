@@ -1,0 +1,78 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+
+#map_container {
+  border: 2px solid #000;
+  height: 250px;
+  height: 500px;
+}
+
+#main {
+  position: absolute;
+  top: 140px;
+  left: 20em;
+  right: 20em;
+}
+
+#main h1 {
+	font-size: 125%;
+}
+
+#page_heading h1 {
+	font-size: 170%;
+}
+
+#main h2 {
+	font-size: 103%;
+}
+
+#policy_footer {
+	margin-top: 14pt;
+	font-style: italic;
+}
+
+
+#sidebar {
+  position: absolute;
+  width: 16em;
+  height: 100%;
+  padding: 1em 1em 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar_logo {
+	padding: 0 0 2em 2em;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 105%;
+  margin-bottom: 0;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+#sidebar li {
+}
+
+#sidebar_footer {
+	margin-top: 14pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#sidebar_footer small {
+	text-align: center;
+	font-size: 60%;
+}
+
