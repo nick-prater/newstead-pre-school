@@ -68,6 +68,19 @@ route '/staff/*' do
   end
 end
 
+route '/trustees/' do
+  '/trustees/index.html'
+end
+
+route '/trustees/*' do
+  if item.binary?
+    item.identifier.chop + '.' + item[:extension]
+  else
+    item.identifier.chop + '.html'
+  end
+end
+
+
 
 route '/js/*' do
     item.identifier.chop + '.' + item[:extension]
