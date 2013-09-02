@@ -5,8 +5,7 @@
 
 # Qualifications #
 
-* Degree
-* CACHE level 4
+* Foundation Degree: Health and Social Care (Early Years)
 * Paediatric First Aid Emergency Procedures (High Q Training Services) valid to 2014-06-30
 * Anaphylaxis and Administration of Epipen (Humber Services) valid to 2014-06-22
 * Food Safety

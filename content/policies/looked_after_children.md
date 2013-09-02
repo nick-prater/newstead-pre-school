@@ -10,7 +10,7 @@ reach their full potential.
 We recognise that children who are being looked after have often experienced traumatic situations:
 physical, emotional or sexual abuse or neglect. However, we also recognise that not all looked after 
 children have experienced abuse and that there are a range of reasons for children to be taken into the 
-care of the local authority. Whatever the reason, a child.s separation from their home and family signifies 
+care of the local authority. Whatever the reason, a child's separation from their home and family signifies 
 a disruption in their lives that has impact on their emotional well-being.
 
 In our setting, we place emphasis on promoting 
@@ -105,7 +105,7 @@ sociability and their ability to manage their feelings with or without support.
 * Further observations about communication, interests and abilities will be noted to form a picture of the 
 whole child in relation to the Early Years Foundation Stage Prime and Specific areas of learning.
 
-* Concerns about the child will be noted in the child.s file and discussed with the foster carer.
+* Concerns about the child will be noted in the child's file and discussed with the foster carer.
 
 * If the concerns are about the foster carer's treatment of the child, or if abuse is suspected, these are 
 recorded onto Child Protection Record and reported to the child's social care worker according to the 

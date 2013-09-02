@@ -1,5 +1,5 @@
 ---
-title: Managing Behaviour - Achieving Positive Behaviour
+title: Achieving Positive Behaviour
 adpoted_date: 2013-08-13
 review_date: 2014-08-13
 signed-by-name: Nick Prater
@@ -37,6 +37,7 @@ that role.
 * We work in partnership with children’s parents. Parents are regularly informed about their children’s behaviour by their key person. 
 We work with parents to address recurring inconsiderate behaviour, using our observation records to help us to understand the cause 
 and to decide jointly how to respond appropriately.
+
  
 ## Strategies with children who engage in inconsiderate behaviour ##
 
@@ -58,7 +59,7 @@ children are meaningfully occupied without the need for unnecessary conflict ove
 
 * When children behave in inconsiderate ways, we help them to understand the outcomes of their actions and support them in learning how to cope more appropriately.
 
-* We never send children out of the room by themselves, nor do we use a ‘naughty chair’ or a ‘time out’ strategy that excludes children from the group. We do have ‘time out’ with a member of staff to help the child reflect on their actions.
+* We never send children out of the room by themselves.
 
 * We never use physical or corporal punishment, such as smacking or shaking. Children are never threatened with these.
 
@@ -72,7 +73,24 @@ children are meaningfully occupied without the need for unnecessary conflict ove
 
 * We do not shout or raise our voices in a threatening way to respond to children’s inconsiderate behaviour.
 
+* In exceptional situations, we reserve the right to contact a child's parent or carer and ask them to collect their
+child if the child's behaviour is aggressive or dangerous to themselves, other children, or staff.
+
+
+## Time Out ##
+
+* If a member of staff witnesses unkind, dangerous, disruptive or agressive behaviour and, despite warnings, the behaviour
+continues, the member of staff will ask the child to sit on a chair.
+
+* The member of staff will ask the child to sit for a given time (e.g. half, 1, 2, 3 or 5 minutes) 
+and place a sand timer in front of the child as a visual aid for the child to remain seated.
+
+* The child will not be left unsupervised, however staff will not usually sit or stay next to the child
+as to do so would be rewarding their unwanted behaviour with one-to-one attention.
+
+
 ## Children under three years ##
+
 * When children under three years old behave in inconsiderate ways we recognise that strategies for supporting them will need to be developmentally appropriate and differ from those for older children.
 
 * We recognise that very young children are unable to regulate their own emotions, such as fear, anger or distress, and require sensitive adults to help them do this.
@@ -83,7 +101,9 @@ children are meaningfully occupied without the need for unnecessary conflict ove
 
 * We focus on ensuring a child’s attachment figure in the setting, their key person, is building a strong relationship to provide security to the child.
 
+
 ## Rough and tumble play and fantasy aggression ##
+
 Young children often engage in play that has aggressive themes, such as superhero and weapon play. Some children appear pre-occupied with these themes, but their behaviour is not necessarily a precursor to hurtful behaviour or bullying, although it may be inconsiderate at times and may need addressing using strategies as above.
 
 * We recognise that teasing and rough and tumble play are normal for young children and acceptable within limits. We regard these kinds of play as pro-social and not as problematic or aggressive.
@@ -94,7 +114,9 @@ Young children often engage in play that has aggressive themes, such as superher
 
 * We are able to tune in to the content of the play, perhaps to suggest alternative strategies for heroes and heroines, making the most of ‘teachable moments’ to encourage empathy and lateral thinking to explore alternative scenarios and strategies for conflict resolution.
 
+
 ## Hurtful behaviour ##
+
 We take hurtful behaviour very seriously. Most children under the age of five will at some stage hurt or say something hurtful to another child, especially if their emotions are high at the time, but it is not helpful to label this behaviour as ‘bullying’. For children under five, hurtful behaviour is momentary, spontaneous and often without cognisance of the feelings of the person whom they have hurt.
 
 * We recognise that young children behave in hurtful ways towards others because they have not yet developed the means to manage intense feelings that sometimes overwhelm them.
@@ -109,7 +131,10 @@ We take hurtful behaviour very seriously. Most children under the age of five wi
 
 * Our way of responding to pre-verbal children is to calm them through holding and cuddling. Verbal children will also respond to cuddling to calm them down, but we offer them an explanation and discuss the incident with them to their level of understanding.
 
-* We recognise that young children require help in understanding the range of feelings they experience. We help children recognise their feelings by naming them and helping children to express them, making a connection verbally between the event and the feeling. “Adam took your car, didn’t he, and you were enjoying playing with it. You didn’t like it when he took it, did you? Did it make you feel angry? Is that why you hit him?” Older children will be able to verbalise their feelings better, talking through themselves the feelings that motivated the behaviour.
+* We recognise that young children require help in understanding the range of feelings they experience. 
+We help children recognise their feelings by naming them and helping children to express them, 
+making a connection verbally between the event and the feeling. Older children will generally be better able to verbalise their
+emotions, talking through themselves the feelings that motivated the behaviour.
 
 * We help young children learn to empathise with others, understanding that they have feelings too and that their actions impact on others’ feelings. “When you hit Adam, it hurt him. He didn’t like that and it made him cry”.
 

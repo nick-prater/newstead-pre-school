@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Newstead Road Pre-School - <%= @item[:title] %></title>
+	<link rel="stylesheet" href="/style.css">
+	<meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
+</head>
+
+<body>
+	<div id="pdf_main">
+		<div id="page_heading">
+			<h1><%= @item[:title] %></h1>
+		</div>
+		<div>
+			<%= yield %>
+		</div>
+		<hr />
+		<% if @item[:review_date] %>
+		<div id="policy_footer">
+			This policy was adpoted by the trustees of Newstead Road Pre-school on <%= @item[:adpoted_date] %>.
+			<br />
+			It will be reviewed on or before <%= @item[:review_date] %>.
+			<br />
+			<br />
+		</div>
+		<% end %>
+
+		<div>
+			<address>Newstead Road Pre-School,  6 Birch Grove,  Lee,  London,  SE12 0SU.</address>
+		</div>
+	    </div>
+
+	</div>
+</body>
+</html>

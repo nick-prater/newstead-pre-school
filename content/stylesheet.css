@@ -32,6 +32,10 @@ body {
 	font-size: 103%;
 }
 
+#main h3 {
+	font-size: 102%;
+}
+
 #policy_footer {
 	margin-top: 14pt;
 	font-style: italic;
@@ -72,7 +76,9 @@ body {
 }
 
 #sidebar_footer small {
+	margin 0;
 	text-align: center;
 	font-size: 60%;
+	line-height: 10%;
 }
 

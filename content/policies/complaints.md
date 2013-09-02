@@ -44,7 +44,7 @@ A full procedure is set out in the Pre-school Learning Alliance publication [Com
 ## Stage 3 ##
 * If the complainant is not satisfied with the outcome of the investigation, they request a meeting with the Pre-school manager and the chair of the management committee. The complainant may have a friend or partner present if they wish. The Pre-school manager should have the support of the chair of the management committee.
 
-* An agreed written record of the discussion is made and any decision or action to be take as a result. All of those present at the meeting sign the record and receive a copy of it.
+* An agreed written record of the discussion is made and any decision or action to be taken as a result. All of those present at the meeting sign the record and receive a copy of it.
 
 * The signed record signifies that the procedure has concluded. When the complaint is resolved at this stage, the summative points are logged in the _Complaints Summary Record_.
 

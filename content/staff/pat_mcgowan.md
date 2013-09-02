@@ -5,8 +5,7 @@
 
 # Qualifications #
 
-* NVQ level 3
-* Foundation Degree
+* Foundation Degree: Health and Social Care (Early Years)
 * Paediatric First Aid Emergency Procedures (High Q Training Services) valid to 2014-05-05
 * Anaphylaxis and Administration of Epipen (Humber Services) valid to 2014-06-22
 * Food Safety
@@ -20,4 +19,5 @@
 * 2013-06-25 : Supervision (Influential Chid Care Training)
 * 2013-06-29 : Delivering the revised EYFS (Educare)
 * 2013-07-06 : NSPCC Child Neglect (Educare)
+* 2013-08-20 : Promoting Positive Behaviour (Educare)
 

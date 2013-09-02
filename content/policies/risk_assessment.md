@@ -46,7 +46,7 @@ responsible for the action and any funding required.
     * Recording any action taken following a review or incident.
  
     * Ensuring that we have instructions on what to do if any hazardous materials are spilt, ingested, 
-or come into contact with eys or skin. This information is often printed on the container, but otherwise
+or come into contact with eyes or skin. This information is often printed on the container, but otherwise
 [Chemical Safety Data Sheets](http://www.hse.gov.uk/coshh/basics/datasheets.htm) will be obtained from
 the supplier.
 
