@@ -261,7 +261,7 @@ life of the setting is like and to join in helping the children to get the best 
 
 Joining the rota is not the only means of taking part in the life of the setting. Parents can offer 
 to take part in a session by sharing their own interests and skills with the children. Parents have 
-visited to play musict for the children, take part in cooking sessions and read books with the children.
+visited to play music for the children, take part in cooking sessions and read books with the children.
 
 We welcome parents to drop into the setting to see it at work or to speak with the staff.
 
@@ -319,9 +319,13 @@ outdoor child-chosen and adult-led activities, as well as those provided in the 
 
 ## Snacks and meals ##
 
-The setting makes snacks and meals a social time at which children and adults eat together. We plan 
-the menus for snacks and meals so that they provide the children with healthy and nutritious food. 
-Please tell us if your child has particular dietary needs and we will make sure that these are met.
+The setting makes snacks and meals a social time at which children and adults sit and eat together.
+Children attending the morning session bring a packed lunch.
+
+During both morning and afternoon sessions, we provide children with a healthy snack, such
+as fruit or vegetables. Water and milk are provided for children to drink.
+
+Please tell us if your child has particular dietary needs.
 
 
 ## Clothing ##
@@ -400,7 +404,7 @@ shared forum for looking back over the previous year's activities and shaping th
 
 For the current fees, please ask the pre-school manager, [Pat McGowan](/staff/pat_mcgowan.html).
 
-Fees must still be paid if children are absent without notice for a short period of time. If your 
+Fees must still be paid if children are absent for a short period of time. If your 
 child has to be absent over a long period of time, talk to [Pat McGowan](/staff/pat_mcgowan.html) who is the pre-school
 manager. 
 

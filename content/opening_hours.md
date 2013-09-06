@@ -11,10 +11,13 @@ Newstead Road Pre-School provides sessional care for children aged from 2&mdash;
 |Tuesday   | 0900 - 1245 | 1300 - 1600 |
 |Wednesday | 0900 - 1245 | 1300 - 1600 |
 |Thursday  | 0900 - 1245 | 1300 - 1600 |
-|Friday    | 0900 - 1245 | planning and staff training |
+|Friday    | 0900 - 1245 | closed      |
 
 On Mondays, Tuesdays, Wednesdays and Thursdays, older children have the option to stay all day 
 between 0900 and 1600, for both morning and afternoon sessions.
+
+Children attending in the morning bring a packed lunch, which they sit to eat, together with staff, as
+part of the session.
 
 We are open for 38 weeks each year.
 

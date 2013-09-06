@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Newstead Road Pre-School - <%= @item[:title] %></title>
+	<link rel="stylesheet" href="/style.css">
+	<meta name="generator" content="nanoc <%= Nanoc::VERSION %>"> 
+</head>
+
+<body>
+	<div id="main_pdf">
+		<div id="page_heading">
+			<h1>Policy Document Distribution Record</h1>
+		</div>
+		<p>
+		<em><%= @item[:title] %></em> as adpoted by the trustees on <%= @item[:adpoted_date] %>
+		</p>
+		<p>
+		Received, understood and accepted by:
+		</p>
+		<div>
+
+<table class="policy_distribution_table" border="1">
+
+	<tr>
+		<th>Name</th>
+		<th>Signature</th>
+		<th>Date</th>
+	</tr>
+
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name">Nick Prater</td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name">Pat McGowan</td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name">Eve Ratcliff</td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name">Debbie Griffin</td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name">Leah Sergeant</td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name">Louretta Boyode</td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name">Sarah Wyatt</td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+<% for i in 1..9 %>
+	<tr class="policy_distribution_table_row">
+		<td class="policy_distribution_name"></td>
+		<td class="policy_distribution_signature"></td>
+		<td class="policy_distribution_date"></td>
+	</tr>
+
+<% end %>
+
+</table>
+
+
+
+
+
+
+		</div>
+
+	</div>
+</body>
+</html>

@@ -21,6 +21,17 @@ compile '/js/*' do
   # don't filter or layout
 end
 
+
+compile '/policies/*', :rep => :policy_distribution do
+  if item.binary?
+    # don't filter binary items
+  else 
+    filter :kramdown
+    layout 'policy_distribution_record'
+  end
+end
+
+
 compile '/policies/*' do
   if item.binary?
     # don't filter binary items
@@ -42,6 +53,28 @@ end
 route '/stylesheet/' do
   '/style.css'
 end
+
+
+
+route '/policies/', :rep => :policy_distribution do
+  '/policies/index_distribution.html'
+end
+
+route '/policies/*', :rep => :policy_distribution do
+  if item.binary?
+    item.identifier.chop + '.' + item[:extension]
+  else
+    item.identifier.chop + '.distribution.html'
+  end
+end
+
+
+
+
+
+
+
+
 
 
 route '/policies/' do

@@ -53,6 +53,7 @@ We have also adopted the following policies to provide guidance and help with th
 * [Employment Policy](/policies/employment.html)
 * [Student Placements Policy](/policies/student_placements.html)
 * [Key Person and Settling-in Policy](/policies/key_person.html)
+* [Employee Disciplinary Procedure](/policies/disciplinary.html)
 
 # Further Information #
 * Ofsted Factsheet: [Records, policies and notification requirements of the Early Years Register](http://www.ofsted.gov.uk/resources/factsheet-childcare-records-policies-and-notification-requirements-of-early-years-register)

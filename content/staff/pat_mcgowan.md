@@ -20,4 +20,5 @@
 * 2013-06-29 : Delivering the revised EYFS (Educare)
 * 2013-07-06 : NSPCC Child Neglect (Educare)
 * 2013-08-20 : Promoting Positive Behaviour (Educare)
+* 2013-09-03 : Managing Your Ofsted Inspection (Educare)
 
