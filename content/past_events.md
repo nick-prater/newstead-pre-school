@@ -4,6 +4,12 @@ title: Past Events
 Below we celebrate some of the events which have taken place in and around
 our pre-school. Some are regular events, some just special occasions
 
+Godstone Farm Trip - July 2014
+
+: A whole coach full of children, parants, staff, carers and siblings, along with some
+extra cars spent the day at [Godstone Farm](http://godstonefarm.co.uk/) for a fun day out.
+It was new experience for many and a great chance for families to get together. Everybody
+shared a picnic for lunch.
 
 Pantomine Trip - December 2013
 
@@ -15,7 +21,7 @@ was also a great opportunity for families to socialise together. By booking as a
 we were able to access specially discounted tickets. 
 
 
-Christmas Party
+Christmas Party with [Mr Marvel](http://www.mrmarvel.co.uk/)
 
 Dad's Breakfast Club
 

@@ -10,6 +10,25 @@ which you may have.
 
 Some of the changes and improvements we have made are listed below.
 
+December 2014 - Dishwasher purchased
+
+: We have purchased a dishwasher which has been installed in kitchen, allowing staff to spend more time with
+the children and less time washing the cups and plates!
+
+
+November 2014 - Yard lights replaced
+
+: As the nights are drawing in, it's getting dark by the end of our afternoon sessions. The faulty lighting in
+the back yard and alleyway have been replaced by modern LED floodlights, controlled by a light and movemement sensor.
+This will make it easier to see while tidying away and improve security at the pre-school.
+
+
+October 2014 - Boiler Service
+
+: [AC Wilgar](http://www.acwilgar.co.uk/) have done a fine job of servicing our boiler. After our first appointment
+was delayed and subsequently cancelled (not good) they completed the service for free as a donation to our charity (fantastic!).
+Professional, dependable service as we have come to expect. Thank you Steve Gill! Thoroughly recommended.
+
 
 October 2014 - Coffee Morning
 
