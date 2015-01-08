@@ -14,7 +14,7 @@ This procedure is designed to encourage all employees to achieve high standards 
 
 4. For minor or isolated infringements of rules or expected behaviour, managers and supervisors should give employees informal advice, coaching and counselling as part of their supervisory duties.
 
-5. Where an employee.s conduct or performance fails to improve as a result of advice, coaching or counselling, or where the offence is more serious, then the disciplinary procedure will be applied.
+5. Where an employee's conduct or performance fails to improve as a result of advice, coaching or counselling, or where the offence is more serious, then the disciplinary procedure will be applied.
 
 6. A prompt and thorough investigation into the concerns will take place prior to a disciplinary meeting taking place. The employee will be informed that an investigation is taking place as soon as possible.
 
@@ -34,10 +34,10 @@ Gross misconduct is a category which can include, but is not limited to:
 3. Physical violence.
 4. Serious bullying or harassment.
 5. Deliberate damage to property.
-6. Conviction of a criminal offence relevant to the employee.s role.
+6. Conviction of a criminal offence relevant to the employee's role.
 7. Gross negligence.
 8. Serious insubordination.
-9. Misuse of the organisation.s property or name.
+9. Misuse of the organisation's property or name.
 10. Misuse of electronic communications which defames individuals or brings the organisation into disrepute.
 11. Bringing the organisation into serious disrepute.
 12. Serious incapability whilst on duty brought on by alcohol or illegal drugs.
@@ -61,7 +61,7 @@ Gross misconduct is a category which can include, but is not limited to:
 # Procedure #
 1. At the earliest opportunity the manager must inform the employee that an allegation or incident has occurred and that an investigation is to take place.
 
-2. Following an appropriate investigation, the manager must prepare a written statement of the employee.s alleged conduct or characteristics, or of the circumstances which have led to disciplinary action being considered.
+2. Following an appropriate investigation, the manager must prepare a written statement of the employee's alleged conduct or characteristics, or of the circumstances which have led to disciplinary action being considered.
 
 3. The manager or supervisor must send the statement and any witness statements to the employee including any evidence that will be relied upon at the meeting and invite the employee to attend a disciplinary meeting to discuss the matter. The employee should also be informed of their right to be accompanied at the meeting. Employees should be given an appropriate amount of notice of the meeting in order to prepare their response and to contact any witnesses that he/she wishes to call to the meeting to give evidence.
 
@@ -72,7 +72,7 @@ Gross misconduct is a category which can include, but is not limited to:
 
 1. Any employee who feels they have been disciplined unfairly may appeal to the person named in the disciplinary letter. All appeals must be submitted in writing, within 7 working days of the date of the disciplinary meeting letter, clearly setting out the grounds for appeal.
 
-2. Normally an appeal meeting will be arranged with the employee, together with the line manager of the manager who issued the disciplinary penalty, within 15 working days of the employee.s request.
+2. Normally an appeal meeting will be arranged with the employee, together with the line manager of the manager who issued the disciplinary penalty, within 15 working days of the employee's request.
 
 3. A letter detailing the outcome of the appeal should be issued within 10 working days of the appeal meeting.
 
@@ -107,12 +107,12 @@ Gross misconduct is a category which can include, but is not limited to:
 
 4. The employee may be accompanied at the meeting by a work colleague or a trade union representative.
 
-5. The warning will be placed on the employee.s personnel file. After a period of six months, if no further disciplinary action has been found necessary and the minor breach has been resolved, the warning will expire.
+5. The warning will be placed on the employee's personnel file. After a period of six months, if no further disciplinary action has been found necessary and the minor breach has been resolved, the warning will expire.
 
 
 # Written warnings #
 
-1. If the infringement is regarded as more serious, or the employee.s work or conduct are considered unsatisfactory after they have received a formal verbal warning and after a period has elapsed in which the employee has had time to remedy their work or conduct, a disciplinary meeting conducted by the manager will be held.
+1. If the infringement is regarded as more serious, or the employee's work or conduct are considered unsatisfactory after they have received a formal verbal warning and after a period has elapsed in which the employee has had time to remedy their work or conduct, a disciplinary meeting conducted by the manager will be held.
 
 2. The employee will be informed of the nature of the complaint and such evidence as may exist, and will be given an opportunity to respond. The employee will be told of the decision and given a letter of confirmation within 10 working days of the disciplinary meeting. The written confirmation will state:
 
@@ -129,7 +129,7 @@ Gross misconduct is a category which can include, but is not limited to:
 
 # Final written warning #
 
-1. If the employee.s work or conduct fails to improve, or where the infringement is sufficiently serious, the manager will follow the same procedures as for issuing a written warning. If proven, a final warning, which will be in writing, will be given to the employee warning that any further misconduct will result in dismissal with appropriate notice.
+1. If the employee's work or conduct fails to improve, or where the infringement is sufficiently serious, the manager will follow the same procedures as for issuing a written warning. If proven, a final warning, which will be in writing, will be given to the employee warning that any further misconduct will result in dismissal with appropriate notice.
 
 2. After a period of twenty-four months, if no further disciplinary action has been found necessary and the breach has been resolved, the warning will expire.
 
@@ -147,7 +147,7 @@ Gross misconduct is a category which can include, but is not limited to:
 
 1. Suspension should be used sparingly in circumstances where the manager needs to conduct an investigation prior to a hearing where it is felt that the impact of not suspending the employee during the period would be likely to be more detrimental than suspending them.
 
-2. Cases which involve potential gross misconduct will usually result in suspension,  particularly when relationships have broken down or where the setting.s property or responsibilities to other parties are involved, or where the employee.s presence may prejudice the inquiry.
+2. Cases which involve potential gross misconduct will usually result in suspension,  particularly when relationships have broken down or where the setting's property or responsibilities to other parties are involved, or where the employee's presence may prejudice the inquiry.
 
 3. Suspension should be kept brief and reviewed to ensure that it is not unnecessarily protracted.
 
@@ -157,7 +157,7 @@ Gross misconduct is a category which can include, but is not limited to:
 # Timescales #
 1.  Employees are required to take all reasonable steps to attend the hearing. However, should, for a reasonably unforeseen reason, either the employee, the line manager or their companions be unable to attend the meeting, it must be rearranged.
 
-2. Should an employee.s companion be unable to attend then the employee should make contact within 5 days of the date of the letter to arrange an alternative date that falls within 10 days of the original date provided.
+2. Should an employee's companion be unable to attend then the employee should make contact within 5 days of the date of the letter to arrange an alternative date that falls within 10 days of the original date provided.
 
 3. Time limits may be extended by mutual agreement.
 

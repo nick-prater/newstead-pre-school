@@ -1,7 +1,7 @@
 ---
-title: Sudent Placements Policy
-adpoted_date: 2013-08-13
-review_date: 2014-08-13
+title: Student Placements Policy
+adpoted_date: 2013-11-25
+review_date: 2014-11-25
 signed-by-name: Nick Prater
 ---
 
@@ -51,3 +51,6 @@ children in our care and not admitting students in numbers that hinder the essen
 * We ensure that students placed with us are engaged in bona fide early years training, which provides the necessary background understanding of children's development and activities.
 
 
+# Changes #
+
+* 2013-11-25 - Correct spelling mistake in title: missing 't' in 'student'

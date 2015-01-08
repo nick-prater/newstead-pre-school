@@ -1,7 +1,7 @@
 ---
 title: Looked after children
-adpoted_date: 2013-08-13
-review_date: 2014-08-13
+adpoted_date: 2013-11-25
+review_date: 2014-11-25
 signed-by-name: Nick Prater
 ---
 We are committed to enabling _looked after_ children in our care to achieve and 
@@ -59,7 +59,8 @@ carer we will continue to offer a place for the child.
 
 * Every child is allocated a key person before they start and this is no different for a looked after child.
 
-* The designated person for looked after children is the designated Child Protection co-ordinator, Pat McGowan,
+* The designated person for looked after children is the designated Child Protection co-ordinator, 
+[Eve Ratcliff](/staff/eve_ratcliff.html),
 who will ensure that the key person has the information, support and training necessary to meet the looked after child's needs.
 
 * The designated person and the key person will liaise with agencies, professionals and practitioners involved 
@@ -123,5 +124,9 @@ agreement of the looked after child's birth parents.
 * [Who Does What: How Social Workers and Carers can Support the Education of Looked After 
 Children (DfES 2005)](http://webarchive.nationalarchives.gov.uk/20130401151715/https://www.education.gov.uk/publications/eOrderingDownload/LACWDW.pdf.pdf)
 * [Supporting Looked After Learners - A Practical Guide for School Governors (DfES 2006)](http://webarchive.nationalarchives.gov.uk/20090707073355/dcsf.gov.uk/everychildmatters/resources-and-practice/ig00029/)
+
+# Change History #
+
+* 2013-11-25 : Changed designated person from Pat McGowan to Eve Ratcliff.
 
 

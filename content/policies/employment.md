@@ -1,7 +1,7 @@
 ---
 title: Employment Policy
-adpoted_date: 2013-08-13
-review_date: 2014-08-13
+adpoted_date: 2014-01-07
+review_date: 2015-01-07
 signed-by-name: Nick Prater
 ---
 
@@ -24,13 +24,25 @@ considered on the basis of their suitability for the post, regardless of marital
 status, age, gender, culture, religious belief, ethnic origin or sexual orientation. 
 We will not disadvantage them by imposing unjustifiable conditions or requirements.
 
+* Applications for employment with our pre-school must be made using our
+[Job Application Form](/policies/20130809-Vacancy_Application_Form.pdf). This ensures that
+we gather comprehensive background information on which to base employment decisions and makes it easier
+to spot gaps or omissions in the details provided, which is an important part of our
+safer recruitment procedures.
+
 * We use 
 [Ofsted guidance](http://www.ofsted.gov.uk/resources/factsheet-childcare-disclosure-and-barring-service-dbs-checks-for-those-providers-who-register-ofste) 
 on obtaining references and enhanced criminal record checks through the 
 [Disclosure and Barring Service](https://www.gov.uk/government/organisations/disclosure-and-barring-service)
 for staff and volunteers who will have unsupervised access to children. 
 
-* We keep records relating to employment of staff and volunteers, in particular those demonstrating that checks have been done, including the date and number of the enhanced Disclosure and Barring Service check.
+* We keep records relating to employment of staff and volunteers, in particular those demonstrating 
+that checks have been done. This includes the date and number of the enhanced Disclosure 
+and Barring Service check, who obtained it and who reviewed the outcome. We also record who obtained
+and who reviewed references. In line with the code-of-practice for
+[handling of DBS certificate information](https://www.gov.uk/government/publications/handling-of-dbs-certificate-information)
+and [guidance for employers](https://www.gov.uk/dbs-check-requests-guidance-for-employers),
+we securely dispose of the certificates and references once they have been reviewed.
 
 * Staff are expected to disclose any convictions, cautions, court orders, reprimands 
 and warnings which may affect their suitability to work with children,
@@ -63,7 +75,9 @@ or an equivalent or higher qualification.
 * Our setting budget allocates resources to training.
 
 * We provide staff induction training in the first weeks of employment. This induction includes our 
-[Health and Safety Policy] and Safeguarding Children and Child Protection Policy. Other policies and procedures are introduced as part of the induction process.
+[Health and Safety Policy](/policies/health_and_safety.html) and 
+[Safeguarding Children and Child Protection Policy](/policies/safeguarding_children.html). 
+Other policies and procedures are introduced as part of the induction process.
 
 * We support the work of our staff by holding regular supervision meetings and appraisals.
 
@@ -78,7 +92,9 @@ or an equivalent or higher qualification.
 
 * Staff medication on the premises will be stored securely and kept out of reach of the children at all times.
 
-* If we have reason to believe that a member of staff is under the influence of alcohol or any other substance that may affect their ability to care for children they will not be allowed to work directly with the children and our Disciplinary Procedure will be followed.
+* If we have reason to believe that a member of staff is under the influence of alcohol 
+or any other substance that may affect their ability to care for children they will not be 
+allowed to work directly with the children and our [Disciplinary Procedure](/policies/disciplinary.html) will be followed.
  
 
 ## Staff absence ##
@@ -98,3 +114,8 @@ or an equivalent or higher qualification.
 
 * The pre-school will not open unless there are sufficient personnel in the setting to ensure that minumum ratios are met.
 
+
+# Change History #
+
+* 2014-01-07: Clarify that job applications are made on a standard application form. Clarify what information is recorded and what
+is destroyed in respect of vetting procedures.

@@ -1,7 +1,7 @@
 ---
 title: Safeguarding children and child protection
-adpoted_date: 2013-08-13
-review_date: 2014-08-13
+adpoted_date: 2013-11-25
+review_date: 2014-11-25
 signed-by-name: Nick Prater
 ---
 _This policy includes managing allegations of abuse against a member of staff._
@@ -17,7 +17,8 @@ Our setting will work with children, parents and the community to ensure the rig
 
 We are committed to building a _culture of safety_ in which children are protected from abuse and harm in all areas of our work.
 
-* Our designated person (a member of staff) who co-ordinates child protection issues is the pre-school manager, [Pat McGowan](/staff/pat_mcgowan.html).
+* Our designated person (a member of staff) who co-ordinates child protection issues is the pre-school deputy manager,
+[Eve Ratcliff](/staff/eve_ratcliff.html).
 
 * Our designated officer (a member of the management committee) who oversees this work is [Nick Prater](/trustees/nick_prater.html).
 
@@ -229,4 +230,8 @@ We are committed to promoting awareness of child abuse issues and to empowering 
 * [Statutory guidance on making arrangements to safeguard and promote the welfare of children under section 11 of the Children Act 2004 (HMG 2007)](http://webarchive.nationalarchives.gov.uk/20130401151715/https://www.education.gov.uk/publications/eOrderingDownload/DFES-0036-2007.pdf)
 * [Information Sharing](http://www.education.gov.uk/childrenandyoungpeople/strategy/integratedworking/a0072915/information-sharing)
 
+
+# Change History #
+
+* 2013-11-25 : Changed designated person from Pat McGowan to Eve Ratcliff.
 

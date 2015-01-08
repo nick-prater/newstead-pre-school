@@ -1,7 +1,7 @@
 ---
 title: Achieving Positive Behaviour
-adpoted_date: 2013-08-13
-review_date: 2014-08-13
+adpoted_date: 2014-01-03
+review_date: 2015-01-03
 signed-by-name: Nick Prater
 ---
 # Policy statement #
@@ -51,6 +51,9 @@ children are meaningfully occupied without the need for unnecessary conflict ove
 
 * We acknowledge considerate behaviour such as kindness and willingness to share.
 
+* We avoid using excessive or vague praise with children. By making praise specific, clear 
+and meaningful we aim to help build children’s self-esteem and confidence.
+
 * We support each child in developing self-esteem, confidence and feelings of competence.
 
 * We support each child in developing a sense of belonging in our group, so that they feel valued and welcome.
@@ -77,7 +80,7 @@ children are meaningfully occupied without the need for unnecessary conflict ove
 child if the child's behaviour is aggressive or dangerous to themselves, other children, or staff.
 
 
-## Time Out ##
+## Take Five ##
 
 * If a member of staff witnesses unkind, dangerous, disruptive or agressive behaviour and, despite warnings, the behaviour
 continues, the member of staff will ask the child to sit on a chair.
@@ -85,8 +88,9 @@ continues, the member of staff will ask the child to sit on a chair.
 * The member of staff will ask the child to sit for a given time (e.g. half, 1, 2, 3 or 5 minutes) 
 and place a sand timer in front of the child as a visual aid for the child to remain seated.
 
-* The child will not be left unsupervised, however staff will not usually sit or stay next to the child
-as to do so would be rewarding their unwanted behaviour with one-to-one attention.
+* The child will not be left unsupervised. If appropriate the member of staff will sit somewhere quiet 
+with the child for 5 minutes to help change the focus and calm the situation. The member of staff can use 
+this time to help the child reflect on what has happened.
 
 
 ## Children under three years ##
@@ -193,4 +197,12 @@ them a plan for handling the child's behaviour.
 
 * We share what has happened with the parents of the child who has been bullied, explaining that the
 child who did the bullying is being helped to adopt more acceptable ways of behaving.
+
+
+
+# Change History #
+
+* 2014-01-03 : Added clause about making praise specific, clear and meaningful. Replaced
+"Time Out" strategy with "Take Five". Both changes made to reflect current PSLA good practice
+recommendations.
 

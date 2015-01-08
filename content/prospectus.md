@@ -74,6 +74,7 @@ Children learn and develop well in enabling environments, in which their experie
 4. **Learning and Development**:
 Children develop and learn in different ways and at different rates. The framework covers the education and care of all children in early years provision including children with special educational needs and disabilities.
 
+A [Parents Guide to the Early Years Foundation Stage](/welcome_pack/EYFS_Parents_Guide.pdf) is included in our welcome pack.
 
 # How we provide for development and learning #
 
@@ -231,7 +232,9 @@ between 0900 and 1600, for both morning and afternoon sessions.
 
 We are open for 38 weeks each year.
 
-We are closed summer holidays, Christmas holidays, Easter holidays, half-terms, bank holidays and INSET staff training days.
+We are closed summer holidays, Christmas holidays, Easter holidays, half-terms, 
+bank holidays and [INSET](http://en.wikipedia.org/wiki/Inset_day)
+staff training days.
 
 
 # How parents take part in the setting #
@@ -285,10 +288,12 @@ As well as gaining childcare qualifications, our staff and volunteers take part 
 keep up-to date with thinking about early years care and education.
 
 The setting also keeps itself up-to-date with best practice, as a member of the 
-[Pre-school Learning Alliance](https://www.pre-school.org.uk/), through [Under 5 magazine](https://www.pre-school.org.uk/providers/under-5)
-and other publications. The current copy of Under 5 is available for you to read.
+[Pre-school Learning Alliance](https://www.pre-school.org.uk/), through [Under 5 magazine](https://www.pre-school.org.uk/providers/under-5),
+[Nursery World](http://www.nurseryworld.co.uk/)
+and other publications. The current copy of Under 5 and Nursery World are available for you to read.
 
-From time to time the setting holds learning events for parents. These usually look at how adults can help children to learn and develop in their early years.
+From time to time the setting holds learning events for parents. These usually look at how adults 
+can help children to learn and develop in their early years.
 
 
 # The setting's timetable and routines #
@@ -389,7 +394,6 @@ The trustees are responsible for:
 The present trustees are all parents of children who are attending or have attended the pre-school:
 
 * [Nick Prater](/trustees/nick_prater.html)
-* Loretta Perry
 * Barbara Maggs
 * Ruth Hollick
 * Dave Sapsford
@@ -408,8 +412,8 @@ Fees must still be paid if children are absent for a short period of time. If yo
 child has to be absent over a long period of time, talk to [Pat McGowan](/staff/pat_mcgowan.html) who is the pre-school
 manager. 
 
-For your child to keep her/his place at the setting, you must pay the fees, where these are not covered by any free-entitlement
-funding you may be entitled to. Some 2-year-olds and all 3-4-year-olds are usually entitled to 15 hours of funded pre-school 
+For your child to keep their place at the setting, you must pay the fees, where these are not covered by free-entitlement
+funding. Some 2-year-olds and all 3-4-year-olds are usually entitled to 15 hours of funded pre-school 
 education for each week of term.
 
 

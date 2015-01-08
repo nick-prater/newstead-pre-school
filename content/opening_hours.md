@@ -21,6 +21,7 @@ part of the session.
 
 We are open for 38 weeks each year.
 
-We are closed summer holidays, Christmas holidays, Easter holidays, half-terms, bank holidays and INSET staff training days.
+We are closed summer holidays, Christmas holidays, Easter holidays, half-terms, 
+bank holidays and [INSET](http://en.wikipedia.org/wiki/Inset_day) staff training days.
 
 
