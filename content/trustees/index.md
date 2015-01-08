@@ -17,7 +17,6 @@ The trustees committee are responsible for:
 The present trustees are all parents of children who are attending or have attended the pre-school:
 
 * [Nick Prater](/trustees/nick_prater.html)
-* Loretta Perry
 * Barbara Maggs
 * Ruth Hollick
 * Dave Sapsford
