@@ -21,6 +21,11 @@ compile '/js/*' do
   # don't filter or layout
 end
 
+compile '/prospectus/*', :rep => :policy_printable do
+  filter :kramdown
+  layout 'policy_printable'
+end
+
 
 compile '/policies/*', :rep => :policy_distribution do
   if item.binary?
@@ -30,6 +35,17 @@ compile '/policies/*', :rep => :policy_distribution do
     layout 'policy_distribution_record'
   end
 end
+
+
+compile '/policies/*', :rep => :policy_printable do
+  if item.binary?
+    # don't filter binary items
+  else 
+    filter :kramdown
+    layout 'policy_printable'
+  end
+end
+
 
 
 compile '/policies/*' do
@@ -55,6 +71,10 @@ route '/stylesheet/' do
 end
 
 
+route '/prospectus/*', :rep => :policy_printable do
+  '/prospectus/printable.html'
+end
+
 
 route '/policies/', :rep => :policy_distribution do
   '/policies/index_distribution.html'
@@ -65,6 +85,19 @@ route '/policies/*', :rep => :policy_distribution do
     item.identifier.chop + '.' + item[:extension]
   else
     item.identifier.chop + '.distribution.html'
+  end
+end
+
+
+route '/policies/', :rep => :policy_printable do
+  '/policies/index_printable.html'
+end
+
+route '/policies/*', :rep => :policy_printable do
+  if item.binary?
+    item.identifier.chop + '.' + item[:extension]
+  else
+    item.identifier.chop + '.printable.html'
   end
 end
 
