@@ -1,7 +1,7 @@
 ---
 title: Newstead Road Pre-School
 ---
-Newstead Road Pre-School provides sessional care for children aged from 2-5. It opens <a href="/opening_hours/">five days a week</a>.
+Newstead Road Pre-School provides sessional care for children aged from 2&mdash;5. It opens <a href="/opening_hours/">five days a week</a>.
 
 Parents and children benefit from consistent staffing, allowing a strong bond to build between staff and children.
 The <a href="/staff/">staff</a> are mature, experienced and highly qualified. They deliver an atmosphere that is calm, yet welcoming and positive, so parents can have confidence that their children will be well looked after.
