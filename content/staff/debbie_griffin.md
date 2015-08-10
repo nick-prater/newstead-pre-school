@@ -7,8 +7,7 @@
 # Qualifications #
 
 * NVQ Level 3 in Children's Care, Learning and Development
-* Paediatric First Aid Emergency Procedures (High Q Training Services) valid to 2015-10-04
-* Paediatric First Aid valid to 2017-03-29
+* Paediatric First Aid (First Aid Training Organisation) valid to 2017-03-29
 * Anaphylaxis and Administration of Epipen (Humber Services) valid to 2014-06-22
 * Level 2 Award in Food Safety in Catering (Royal Society for the Promotion of Health)
 * Food Safety and Hygiene Level 2 Catering (Virtual College)
@@ -28,8 +27,14 @@
 * 2013-11-26 : Count On It! How Young Children Learn Mathematics (LEARN)
 * 2014-01-01 : Effective Safeguarding Practice (Educare)
 * 2014-03-02 : Fire Safety in Education (Educare)
+* 2014-03-29 : Paediatric First Aid (First Aid Training Organisation)
 * 2014-05-20 : Let's Go Outside! Developing High Quality Outdoor Learning Environments (Penny Cartwright)
 * 2014-10-20 : Safeguarding Children (Child-Guard 1st)
+* 2015-01-06 : Latest EYFS guidance to support the 2014 framework (Educare)
+* 2015-02-11 : Evidencing Children's Progress in the EYFS (Penny Cartwright, LEARN)
+* 2015-02-21 : Introduction to Risk Assessment (Educare)
+* 2015-02-22 : Special Educational Needs & Disability (SEND) 2014 Reforms Guidance (Educare)
+
 
 
 [self-appraisal form](/staff/20141212-Appraisal_Form-Pre_School_Assistant-Debbie_Griffin.pdf)

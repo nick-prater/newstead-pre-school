@@ -16,7 +16,7 @@ She has two children of her own.
 # Qualifications #
 
 * Foundation Degree: Health and Social Care (Early Years)
-* Paediatric First Aid Emergency Procedures (High Q Training Services) valid to 2014-05-05
+* Paediatric First Aid (First Aid Training Organisation) valid to 2017-03-29
 * Anaphylaxis and Administration of Epipen (Humber Services) valid to 2014-06-22
 * Food Safety and Hygiene Level 2 (Catering) (Virtual College)
 
@@ -35,9 +35,12 @@ She has two children of her own.
 * 2013-10-12 : Reflective Practice in the Early Years (Educare)
 * 2013-11-07 : Nurturing Boys in the EYFS (Jo Gordon, LEARN)
 * 2013-11-24 : Effective Safeguarding Practice (Educare)
+* 2014-03-29 : Paediatric First Aid (First Aid Training Organisation)
 * 2014-10-20 : Safeguarding Children (Child-Guard 1st)
 * 2014-12-22 : Characteristics of Effective Leaders (Educare)
 * 2014-12-28 : Latest EYFS Guidance to support the 2014 Framework (Educare)
+* 2015-02-11 : Evidencing Children's Progress in the EYFS (Penny Cartwright, LEARN)
+
 
 
 [self-appraisal form](/staff/20141201-Appraisal_Form-Pre_School_Manager-Pat_McGowan.pdf)

@@ -20,8 +20,9 @@ The present trustees are all parents of children who are attending or have atten
 * Barbara Maggs
 * Ruth Hollick
 * Dave Sapsford
+* Samantha Sharp
 
-We would be glad to hear from any parents or carers who are interested in becoming a trustee of the pre-school.
+We would be glad to hear from any parents or carers who are interested in [becoming a trustee](/trustees/becoming_a_trustee.html) of the pre-school.
 
 Trustees are elected by parents and carers of children attending the pre-school. Changes to trustees are 
 [notified to Ofsted](http://www.ofsted.gov.uk/resources/childcare-registration-form-declaration-and-consent-form-for-all-individuals-connected-registered-pr)

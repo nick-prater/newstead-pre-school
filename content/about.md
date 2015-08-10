@@ -27,4 +27,5 @@ We aim to ensure that each child:
 * Is in a setting that sees parents as partners
 * Is in a setting in which parents help to shape the service it offers
 
-Newstead Road Pre-School is <a href="http://www.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/129103">rated GOOD by OFSTED</a>.
+Newstead Road Pre-School is <a href="http://www.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/129103">rated GOOD by OFSTED</a>
+and awarded a <a href="http://www.scoresonthedoors.org.uk/business/newstead-road-pre-school-london-362340.html">Food Hygiene Rating of 5 (Very Good)</a> by London Borough of Lewisham.

@@ -32,6 +32,8 @@
 * 2014-02-28 : Understanding and Promoting Positive Behaviour in the Early Years (Dr Catherine Gill and Dr Pandora Giles, LEARN)
 * 2014-09-21 : Characteristics of Effective Leaders (Educare)
 * 2014-10-20 : Safeguarding Children (Child-Guard 1st)
+* 2015-01-07 : Latest EYFS guidance to support the 2014 framework (Educare)
+* 2015-02-11 : Evidencing Children's Progress in the EYFS (Penny Cartwright, LEARN)
 
 
 [self-appraisal form](/staff/20130216-Appraisal_Form-Pre_School_Deputy_Manager-Eve_Ratcliff.pdf)

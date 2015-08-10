@@ -26,6 +26,10 @@ compile '/prospectus/*', :rep => :policy_printable do
   layout 'policy_printable'
 end
 
+compile '/privacy_notice/*', :rep => :policy_printable do
+  filter :kramdown
+  layout 'policy_printable'
+end
 
 compile '/policies/*', :rep => :policy_distribution do
   if item.binary?
@@ -73,6 +77,10 @@ end
 
 route '/prospectus/*', :rep => :policy_printable do
   '/prospectus/printable.html'
+end
+
+route '/privacy_notice/', :rep => :policy_printable do
+  '/privacy_notice/printable.html'
 end
 
 

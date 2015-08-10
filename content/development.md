@@ -112,7 +112,7 @@ quality of our provision depends on all members of staff having a clear understa
 of their roles and responsibilities. Accurate job descriptions help to 
 communicate this and complement regular appraisals. This in turn helps ensure
 that training needs are identified and met. (See the 
-[EYFS Statutory Framework 2012](http://www.foundationyears.org.uk/early-years-foundation-stage-2012/),
+EYFS Statutory Framework 2012,
 section 3.18.)
 
 

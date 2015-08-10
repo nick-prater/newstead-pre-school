@@ -59,7 +59,7 @@ We aim to ensure that each child:
 
 
 # The Early Years Foundation Stage #
-The provision for children's development and learning is guided by the [Early Years Foundation Stage](http://www.foundationyears.org.uk/early-years-foundation-stage-2012/).
+The provision for children's development and learning is guided by the [Early Years Foundation Stage](https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2).
 Our provision reflects the four overarching principles of the Statutory Framework for the Early Years Foundation Stage.
 
 1. **A Unique Child**: 
@@ -74,7 +74,7 @@ Children learn and develop well in enabling environments, in which their experie
 4. **Learning and Development**:
 Children develop and learn in different ways and at different rates. The framework covers the education and care of all children in early years provision including children with special educational needs and disabilities.
 
-A [Parents Guide to the Early Years Foundation Stage](/welcome_pack/EYFS_Parents_Guide.pdf) is included in our welcome pack.
+We include [What to Expect When](http://www.foundationyears.org.uk/files/2015/04/4Children_ParentsGuide_2015_FINAL_WEBv2.pdf) in our welcome pack, as a guide to your child's learning and development through the Early Years Foundation Stage.
 
 # How we provide for development and learning #
 
@@ -206,7 +206,7 @@ Your child's key person will work in partnership with you to keep this record. T
 # Working together for your children #
 
 We maintain the ratio of adults to children in the setting that is set by the Safeguarding and Welfare Requirements. 
-We also have volunteer parent helpers, where possible, to complement these ratios. This helps us to:
+We also have volunteer parent helpers to complement these ratios. This helps us to:
 
 * give time and attention to each child
 * talk with the children about their interests and activities
@@ -220,7 +220,7 @@ in the welcome pack given to new parents.
 Newstead Road Pre-School provides sessional care for children aged from 2&mdash;5 years old. We open five days a week between the following times:
 
 |Day       | Morning     | Afternoon   |
-|:---------|:-----------:|:-----------:|
+|:---------|:------------|:------------|
 |Monday    | 0900 - 1245 | 1300 - 1600 |
 |Tuesday   | 0900 - 1245 | 1300 - 1600 |
 |Wednesday | 0900 - 1245 | 1300 - 1600 |
@@ -257,7 +257,8 @@ and stimulating place for children and parents, such as:
 ## The parents' rota ##
 
 We have a dated rota which parents can sign if they would like to help at a particular session 
-or sessions of the setting. Helping at the session enables parents to see what the day-to-day 
+or sessions of the setting. This is kept on the noticeboard just inside the front door.
+Helping at the session enables parents to see what the day-to-day 
 life of the setting is like and to join in helping the children to get the best out of their activities.
 
 ## Joining in ##
@@ -374,7 +375,8 @@ agencies when necessary.
 As part of the setting's [policy](/policies/special_educational_needs.html) to make sure that 
 its provision meets the needs of each individual child,
 we take account of any special needs a child may have. The setting works to the requirements of the 
-[Special Educational Needs Code of Practice (2001)](http://media.education.gov.uk/assets/files/pdf/s/special%20educational%20needs%20code%20of%20practice.pdf).
+[Special educational needs and disability code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25),
+as updated in May 2015
 
 Our Special Educational Needs Co-ordinator is [Pat McGowan](/staff/pat_mcgowan.html)
 
@@ -396,6 +398,7 @@ The present trustees are all parents of children who are attending or have atten
 * [Nick Prater](/trustees/nick_prater.html)
 * Barbara Maggs
 * Ruth Hollick
+* Samantha Sharp
 * Dave Sapsford
 
 We would be glad to hear from any parents or carers who are interested in becoming a trustee of the pre-school.
@@ -427,5 +430,11 @@ is enclosed with the welcome pack.
 
 We hope that you and your child enjoy being members of our setting and that you find taking part in our 
 activities interesting and stimulating. The staff are always ready and willing to talk with you about your ideas, views or questions.
+
+
+
+# Printable Version #
+
+A printable version of this document is available on our web site at [http://newsteadpreschool.org.uk/prospectus/printable.html](http://newsteadpreschool.org.uk/prospectus/printable.html).
 
 

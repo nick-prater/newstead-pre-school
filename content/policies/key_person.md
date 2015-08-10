@@ -119,5 +119,5 @@ support parents to understand the child's needs in order to enhance their develo
 
 # Further Information #
 * [Pre-School Learning Alliance book: Play is What I Do (2010)](https://shop.pre-school.org.uk/A152/play-is-what-i-do)
-* [Statutory Framework for the Early Years Foundation Stage (2012)](http://www.foundationyears.org.uk/early-years-foundation-stage-2012/)
+* [Statutory Framework for the Early Years Foundation Stage (2012)](https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2)
 
