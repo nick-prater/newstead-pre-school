@@ -31,6 +31,11 @@ compile '/privacy_notice/*', :rep => :policy_printable do
   layout 'policy_printable'
 end
 
+compile '/facebook/index.md', :rep => :policy_printable do
+  filter :kramdown
+  layout 'policy_printable'
+end
+
 compile '/policies/*', :rep => :policy_distribution do
   if item.binary?
     # don't filter binary items
@@ -75,6 +80,7 @@ route '/stylesheet/' do
 end
 
 
+# These create printable versions of certain pages
 route '/prospectus/*', :rep => :policy_printable do
   '/prospectus/printable.html'
 end
@@ -83,7 +89,12 @@ route '/privacy_notice/', :rep => :policy_printable do
   '/privacy_notice/printable.html'
 end
 
+route '/facebook/*', :rep => :policy_printable do
+  '/facebook/printable.html'
+end
 
+
+# This creates printable versions of every policy
 route '/policies/', :rep => :policy_distribution do
   '/policies/index_distribution.html'
 end

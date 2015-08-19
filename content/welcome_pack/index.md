@@ -3,7 +3,7 @@ title: Welcome Pack
 ---
 
 When your child joins our setting, you will be given a welcome pack containing
-printed information which we hope will be useful. This will include:
+printed information which we hope will be useful. This includes:
 
 * [Early Years Prospectus](http://newsteadpreschool.org.uk/prospectus/printable.html)
 * [What to Expect When](http://www.foundationyears.org.uk/files/2015/04/4Children_ParentsGuide_2015_FINAL_WEBv2.pdf)
@@ -13,6 +13,9 @@ printed information which we hope will be useful. This will include:
 * Please switch off mobile phones notice
 * Healthy Packed Lunches notice
 * We need your help flyer
+* [Term Dates](/term_dates/)
+* Reading with Dads letter
+* [Facebook Group information](/facebook/printable.html)
 
 Also, each child has a:
 

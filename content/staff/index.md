@@ -7,7 +7,7 @@ title: Staff
 * [Debbie Griffin](/staff/debbie_griffin.html) - [pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * [Leah Sergeant](/staff/leah_sergeant.html) - [pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * [Louretta Boyode](/staff/louretta_boyode.html) - [pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
-* [Sandra Meloni](/staff/sandra_meloni.html) - [traineee pre-school assistant](/staff/20130321-Job_Description-Trainee_Pre-school_Assistant.pdf)
+* [Sandra Meloni](/staff/sandra_meloni.html) - [temporary pre-school assistant](/staff/20130321-Job_Description-Trainee_Pre-school_Assistant.pdf)
 * [Sarah Crow](/staff/sarah_crow.html) - [temporary pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * [Emma Turay](/staff/emma_turay.html) - [temporary pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 

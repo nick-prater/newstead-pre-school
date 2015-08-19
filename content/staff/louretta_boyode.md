@@ -1,6 +1,6 @@
 # Louretta Boyode #
 
-* Pre-school Assistant
+* [Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * Volunteered at the pre-school for many years before joining the staff in April 2013
 * Louretta's children attended the pre-school when they were younger
 
