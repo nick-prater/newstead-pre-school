@@ -9,7 +9,8 @@ title: Staff
 * [Louretta Boyode](/staff/louretta_boyode.html) - [pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * [Sandra Meloni](/staff/sandra_meloni.html) - [temporary pre-school assistant](/staff/20130321-Job_Description-Trainee_Pre-school_Assistant.pdf)
 * [Sarah Crow](/staff/sarah_crow.html) - [temporary pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
-* [Emma Turay](/staff/emma_turay.html) - [temporary pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
+* [Chloe Rich](/staff/chloe_rich.html) - [temporary pre-school assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
+* [Jodi Cast](/staff/jodi_cast.html) - [apprentice pre-school assistant](/staff/20130809-Job_Description-Apprentice_Pre-school_Assistant.pdf)
 
 Our staff are kind, caring, experienced and highly qualified. Most have been with the pre-school
 for many years, providing stability for the children in our care and helping them to form bonds.
@@ -21,7 +22,7 @@ guidelines.
 ## Disclosure and Barring Service Checks ##
 As part of our safeguarding policy,
 [Disclosure and Barring Service](https://www.gov.uk/disclosure-barring-service-check/contact-disclosure-and-barring-service)
-(formerly CRB) 'enhanced disclosure' checks have been carried out on all staff. A record is kept of all checks, including the
+'enhanced disclosure' checks have been carried out on all staff. A record is kept of all checks, including the
 certificate number, date of issue, who requested the check and who reviewed the outcome. In line with the code-of-practice for 
 [handling of DBS certificate information](https://www.gov.uk/government/publications/handling-of-dbs-certificate-information)
 and [guidance for employers](https://www.gov.uk/dbs-check-requests-guidance-for-employers), 

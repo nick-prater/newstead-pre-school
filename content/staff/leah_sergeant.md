@@ -20,6 +20,7 @@
 * 2013-11-11 : Managing Your Ofsted Inspection (Educare)
 * 2013-11-27 : Effective Safeguarding Practice (Educare)
 * 2014-10-20 : Safeguarding Children (Child-Guard 1st)
+* 2015-05-12 : Latest EYFS guidance to support the 2014 framework (Educare)
 
 
 [self-appraisal form](/staff/20141212-Appraisal_Form-Pre_School_Assistant-Leah_Sergeant.pdf)

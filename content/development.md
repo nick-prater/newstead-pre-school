@@ -10,6 +10,44 @@ which you may have.
 
 Some of the changes and improvements we have made are listed below.
 
+
+September 2015 - New staff and apprentice
+
+: As the new academic year starts, we have recruited a new apprentice, [Jodi Cast](/staff/jodi_cast.html) who will be 
+working with us across every session while studying for a Level-2 qualification. We also welcome [Chloe Rich](/staff/chloe_rich.html)
+to work with us in the afternoons. Chloe has a Level-3 qualification and joins us on a one-year temporary contract. The changes
+help us to bring increased consistency to the afternoon staffing, further strengthening bonds between staff and children.
+
+
+August 2015 - Door Finger Guards installed
+
+: To minimise the risk of injuries from fingers being trapped in doors, we have fitted [Finger Wizard](http://norsound.com/finger-wizard) 
+hinge guards to doors at the pre-school. We've thankfully not suffered any such injuries in the past, but identified the potential
+for injury as part of our annual risk assessment review.
+
+
+August 2015 - Washing Machine Installed
+
+: We have installed a washer/dryer at the pre-school, kindly donated by one of our [trustees](/trustees/), Barbara Maggs. 
+The washing machine will allow us to clean towels, dressing-up costumes and uniforms without depending on parents and staff
+to take laundry home.
+
+
+August 2015 - Back Room and lobby decorated
+
+: The back play room and the front lobby have been decorated, so that they are fresh for the start of the new
+academic year. Next on the list: hallway, kitchen, toilets and office... Can you help?
+
+
+April 2015 - 5-Star Food Hygiene Score Awarded
+
+: Following an unannounced inspection by the London Borough of Lewisham, we were awarded a 
+[Food Hygiene Rating of 5 (Very Good)](http://www.scoresonthedoors.org.uk/business/newstead-road-pre-school-london-362340.html).
+This is an improvement on our previous score thanks to changes made by parents and carers
+in the way packed lunches are prepared, avoiding high-risk foods and including ice packs to keep things cool. 
+Our [Welcome Packs](/welcome_pack/) now includes advice and guidance on this.
+
+
 December 2014 - Dishwasher purchased
 
 : We have purchased a dishwasher which has been installed in kitchen, allowing staff to spend more time with
@@ -43,6 +81,12 @@ September 2014 - Outdoor Area
 has been created of a tree and a large caterpillar. Play bark has been layed beneath the bench, covering
 what was formerly dry baked mud. This provides added colour, texture and interest for the children. With the help
 of parents, we hope to continue this development, perhaps with further mural painting or building a sandpit.
+
+
+September 2014 - Now open four afternoons per week
+
+: To cater for increased demand for places and to make better use of our facilities, we are now open Monday-Thursday
+afternoons during term time, in adddition to our usual Monday-Friday morning sessions.
 
 
 September 2014 - Lockers for Staff
