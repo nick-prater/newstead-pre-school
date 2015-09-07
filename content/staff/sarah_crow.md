@@ -1,7 +1,8 @@
 # Sarah Crow #
 
-* [Temporary Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
-* Sarah is covering [Leah Sergeant](/staff/leah_sergeant.html)'s maternity leave
+<img src="/images/staff/preschool_background/Sarah_Crow-500px.JPG" alt="Sarah Crow headshot" class="staff_photo" />
+
+* [Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * Sarah has worked as a pre-school practitioner since 2001
 * Sarah has extensive experience through working as a pre-school deputy manager
 

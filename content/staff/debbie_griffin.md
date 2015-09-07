@@ -1,5 +1,7 @@
 # Debbie Griffin #
 
+<img src="/images/staff/preschool_background/Debbie_Griffin-500px.JPG" alt="Debbie Griffin headshot" class="staff_photo" />
+
 * [Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * Health and Safety Officer
 * Has worked at the pre-school since September 2005

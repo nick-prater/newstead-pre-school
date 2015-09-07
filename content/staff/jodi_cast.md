@@ -1,5 +1,7 @@
 # Jodi Cast #
 
+<img src="/images/staff/preschool_background/Jodi_Cast-500px.JPG" alt="Jodi Cast headshot" class="staff_photo" />
+
 * [Apprentice Pre-school Assistant](/staff/20130809-Job_Description-Apprentice_Pre-school_Assistant.pdf)
 * Joined the pre-school in September 2015
 

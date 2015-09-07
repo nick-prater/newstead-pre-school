@@ -1,5 +1,7 @@
 # Leah Sergeant #
 
+<img src="/images/staff/preschool_background/Leah_Sergeant-500px.JPG" alt="Lee Sergeant headshot" class="staff_photo" />
+
 * [Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * Has been employed at the pre-school since September 2006
 

@@ -1,5 +1,7 @@
 # Eve Ratcliff #
 
+<img src="/images/staff/preschool_background/Eve_Ratcliff-500px.JPG" alt="Eve Ratcliff headshot" class="staff_photo" />
+
 * [Pre-school Deputy Manager](/staff/20140104-Job_Description-Pre-school_Deputy_Manager.pdf)
 * BECO (Behaviour Co-ordinator)
 * Designated person who co-ordinates child protection issues

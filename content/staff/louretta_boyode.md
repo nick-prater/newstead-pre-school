@@ -1,5 +1,7 @@
 # Louretta Boyode #
 
+<img src="/images/staff/preschool_background/Louretta_Boyode-500px.JPG" alt="Louretta Boyode headshot" class="staff_photo" />
+
 * [Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * Volunteered at the pre-school for many years before joining the staff in April 2013
 * Louretta's children attended the pre-school when they were younger

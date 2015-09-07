@@ -1,6 +1,8 @@
 # Sandra Meloni #
 
-* [Temporary Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
+<img src="/images/staff/preschool_background/Sandra_Meloni-500px.JPG" alt="Sandra Meloni headshot" class="staff_photo" />
+
+* [Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * Began working at the pre-school staff in March 2014
 * Long association with the pre-school as her children attended the setting
 * Has completed her Level-2 qualification

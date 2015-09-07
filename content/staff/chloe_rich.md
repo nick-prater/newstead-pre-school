@@ -1,5 +1,7 @@
 # Chloe Rich #
 
+<img src="/images/staff/preschool_background/Chloe_Rich-500px.JPG" alt="Chloe Rich headshot" class="staff_photo" />
+
 * [Temporary Pre-School Assistant](/staff/20131111-Job_Description-Pre-school_Assistant.pdf)
 * Joined the pre-school in September 2015
 

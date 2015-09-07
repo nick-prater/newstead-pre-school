@@ -27,10 +27,6 @@ body {
 	font-size: 170%;
 }
 
-.heading img {
-	width: 18%;
-}
-
 #main h2 {
 	font-size: 103%;
 }
@@ -168,9 +164,29 @@ td, th {
   padding-right: 1em;
 }
 
-.side_menu img {
-  height: 15px;
+img {
+	border: 1px solid black;
 }
+.side_menu img {
+	height: 15px;
+}
+.heading img {
+	border: none;
+	width: 18%;
+}
+#sidebar img {
+	border: none;
+}
+.staff_photo  {
+	width: 250px;
+}
+.staff_list img {
+	width: 100px;
+}
+.staff_list table, .staff_list th, .staff_list tr, .staff_list td, table {
+	border: none;
+}
+
 
 
 

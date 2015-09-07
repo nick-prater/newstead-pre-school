@@ -1,5 +1,7 @@
 # Pat McGowan #
 
+<img src="/images/staff/preschool_background/Pat_McGowan-500px.JPG" alt="Pat McGowan headshot" class="staff_photo" />
+
 * [Pre-School Manager](20131223-Job_Description-Pre-school_Manager.pdf)
 * SENCO (Special Educational Needs Co-Ordinator)
 * Has been employed in current position since April 2008
