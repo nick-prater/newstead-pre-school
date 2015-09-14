@@ -36,6 +36,9 @@
 * 2015-02-11 : Evidencing Children's Progress in the EYFS (Penny Cartwright, LEARN)
 * 2015-02-21 : Introduction to Risk Assessment (Educare)
 * 2015-02-22 : Special Educational Needs & Disability (SEND) 2014 Reforms Guidance (Educare)
+* 2015-08-28 : Characteristics of Effective Leaders (Educare)
+* 2015-08-28 : Child Neglect (Educare)
+
 
 
 
