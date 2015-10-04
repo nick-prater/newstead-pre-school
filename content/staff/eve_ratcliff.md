@@ -36,6 +36,7 @@
 * 2014-10-20 : Safeguarding Children (Child-Guard 1st)
 * 2015-01-07 : Latest EYFS guidance to support the 2014 framework (Educare)
 * 2015-02-11 : Evidencing Children's Progress in the EYFS (Penny Cartwright, LEARN)
+* 2015-09-25 : Managing Your Ofsted Inspection from September 2015 (Educare)
 
 
 [self-appraisal form](/staff/20130216-Appraisal_Form-Pre_School_Deputy_Manager-Eve_Ratcliff.pdf)

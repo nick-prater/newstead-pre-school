@@ -14,4 +14,5 @@
 * 2015-07-08 : Latest EYFS Guidance to support the 2014 Framework (Educare)
 * 2015-07-08 : Promoting Positive Behaviour (Educare)
 * 2015-07-09 : Effective Safeguarding Practice (Educare)
+* 2015-09-27 : Child Neglect (Educare)
 

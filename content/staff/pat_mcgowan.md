@@ -42,7 +42,7 @@ She has two children of her own.
 * 2014-12-22 : Characteristics of Effective Leaders (Educare)
 * 2014-12-28 : Latest EYFS Guidance to support the 2014 Framework (Educare)
 * 2015-02-11 : Evidencing Children's Progress in the EYFS (Penny Cartwright, LEARN)
-
+* 2015-09-26 : Managing Your Ofsted Inspection from September 2015 (Educare)
 
 
 [self-appraisal form](/staff/20141201-Appraisal_Form-Pre_School_Manager-Pat_McGowan.pdf)

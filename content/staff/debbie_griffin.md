@@ -38,6 +38,7 @@
 * 2015-02-22 : Special Educational Needs & Disability (SEND) 2014 Reforms Guidance (Educare)
 * 2015-08-28 : Characteristics of Effective Leaders (Educare)
 * 2015-08-28 : Child Neglect (Educare)
+* 2015-10-02 : Managing Your Ofsted Inspection from September 2015 (Educare)
 
 
 
