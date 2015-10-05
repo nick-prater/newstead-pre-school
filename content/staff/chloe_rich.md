@@ -11,6 +11,7 @@
 
 # Recent Training Courses #
 
+* 2015-10-05 : Reflective Practice in the Early Years (Educare)
 * 2015-10-04 : Effective Safeguarding Practice (Educare)
 * 2015-10-01 : Latest EYFS Guidance to Support the 2014 Framework (Educare)
 * April 2014 - Health and Safety in the Workplace

@@ -24,3 +24,6 @@ Nick took on the role of Chair of Trustees in October 2012.
 * 2014-12-06 : Characteristics of Effective Leaders (Educare)
 * 2014-12-07 : Successful Budgeting in your Early Years Setting (Educare)
 * 2015-02-13 : The Role of Trustees in Delivering the EYFS (Educare)
+* 2015-10-04 : The Prevent Duty in an Early Years Environment (Educare)
+* 2015-10-05 : Managing your Ofsted Inspection from September 2015 (Educare)
+
