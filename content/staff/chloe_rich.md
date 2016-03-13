@@ -18,3 +18,6 @@
 * October 2014 - Working with children with Autism
 * April 2015 - Food Safety and Hygiene
 * July 2015 - Extending Children's Learning: The Adults Role
+
+
+[self-appraisal form](20160212-Appraisal_Form-Pre_School_Assistant-Chloe_Rich.pdf)

@@ -16,3 +16,4 @@
 * 2015-07-09 : Effective Safeguarding Practice (Educare)
 * 2015-09-27 : Child Neglect (Educare)
 
+[self-appraisal form](20160212-Appraisal_Form-Apprentice_Pre_School_Assistant-Jodi_Cast.pdf)
