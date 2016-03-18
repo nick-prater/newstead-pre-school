@@ -17,142 +17,82 @@ passthrough '/style.css'
 passthrough '/js/**/*'
 passthrough '/images/**/*'
 
-compile '/prospectus/**/*', :rep => :policy_printable do
-  filter :kramdown
-  layout '/policy_printable.*'
+
+# Create printable version of specific pages
+compile '/{prospectus,privacy_notice}*', :rep => :policy_printable do
+  if !item.binary?
+    filter :kramdown
+    layout '/policy_printable.*'
+    write item.identifier.without_ext + '/printable.html'
+  end
 end
 
-compile '/privacy_notice/**/*', :rep => :policy_printable do
-  filter :kramdown
-  layout '/policy_printable.*'
+compile '/facebook/index*', :rep => :policy_printable do
+  if !item.binary?
+    filter :kramdown
+    layout '/policy_printable.*'
+    write '/facebook/printable.html'
+  end
 end
 
-compile '/facebook/index.md.*', :rep => :policy_printable do
-  filter :kramdown
-  layout '/policy_printable.*'
-end
 
+# For each policy we create a distribution record and a printable
+# version (without sidebar, footer menus etc.) as well as the
+# 'normal' web page version
 compile '/policies/**/*', :rep => :policy_distribution do
   if !item.binary?
     filter :kramdown
     layout '/policy_distribution_record.*'
+    write item.identifier.without_ext + '.distribution.html'
   end
 end
-
 
 compile '/policies/**/*', :rep => :policy_printable do
   if !item.binary?
     filter :kramdown
     layout '/policy_printable.*'
+    write item.identifier.without_ext + '.printable.html'
   end
 end
 
 
+# Special handling for root index page
+# /index.md maps to /index.html and is not prettified
+compile '/index*' do 
+  filter :kramdown
+  layout '/policy.*'
+  write '/index.html'
+end
 
-compile '/policies/**/*' do
-  if !item.binary?
+
+# Create 'pretty' urls for top level directory only
+# so /foo.md maps to /foo/index.md
+# I don't really like this, but it's the default and
+# what we used on the original Newstead nanoc site
+compile '/*' do 
+  if item.binary?
+    write item.identifier.to_s
+  else
     filter :kramdown
     layout '/policy.*'
+    write item.identifier.without_ext + '/index.html'
   end
 end
 
+
+# We don't prettify urls in subdirectories
+# so /foo/bar.md maps to /foo/bar.html
 compile '/**/*' do
-  if !item.binary?
+  if item.binary?
+    write item.identifier.to_s
+  else
     filter :kramdown
     layout '/policy.*'
-  end
-end
-
-# Added to stop a crash warning
-# Don't currently understand why it's needed now we moved to nanoc v4
-compile '/.*' do
-end
-
-
-# These create printable versions of certain pages
-route '/prospectus/**/*', :rep => :policy_printable do
-  '/prospectus/printable.html'
-end
-
-route '/privacy_notice.*', :rep => :policy_printable do
-  '/privacy_notice/printable.html'
-end
-
-route '/facebook/**/*', :rep => :policy_printable do
-  '/facebook/printable.html'
-end
-
-
-# This creates printable versions of every policy
-route '/policies.*', :rep => :policy_distribution do
-  '/policies/index_distribution.html'
-end
-
-route '/policies/**/*', :rep => :policy_distribution do
-  if !item.binary?
-    item.identifier.without_ext + '.distribution.html'
+    write item.identifier.without_ext + '.html'
   end
 end
 
 
-route '/policies.*', :rep => :policy_printable do
-  '/policies/index_printable.html'
-end
-
-route '/policies/**/*', :rep => :policy_printable do
-  if !item.binary?
-    item.identifier.without_ext + '.printable.html'
-  end
-end
-
-
-route '/policies.*' do
-  '/policies/index.html'
-end
-
-route '/policies/**/*' do
-  if item.binary?
-    item.identifier.without_ext + '.' + item[:extension]
-  else
-    item.identifier.without_ext + '.html'
-  end
-end
-
-route '/staff.*' do
-  '/staff/index.html'
-end
-
-route '/staff/*' do
-  if item.binary?
-    item.identifier.without_ext + '.' + item[:extension]
-  else
-    item.identifier.without_ext + '.html'
-  end
-end
-
-route '/trustees.*' do
-  '/trustees/index.html'
-end
-
-route '/trustees/**/*' do
-  if item.binary?
-    item.identifier.without_ext + '.' + item[:extension]
-  else
-    item.identifier.without_ext + '.html'
-  end
-end
-
-
-
-
-route '/**/*' do
-  if (item.binary?)
-    # Write item with identifier /foo/ to /foo.ext
-    item.identifier.without_ext + '.' + item[:extension]
-  else
-    # Write item with identifier /foo/ to /foo/index.html
-    item.identifier.without_ext + '/index.html'
-  end
-end
-
+# Set language for layout files
 layout '/**/*', :erb
+
