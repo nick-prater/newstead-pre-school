@@ -101,7 +101,7 @@ end
 
 route '/policies/*', :rep => :policy_distribution do
   if item.binary?
-    item.identifier.chop + '.' + item[:extension]
+    item.identifier.chop + '.distribution.' + item[:extension]
   else
     item.identifier.chop + '.distribution.html'
   end
@@ -114,7 +114,7 @@ end
 
 route '/policies/*', :rep => :policy_printable do
   if item.binary?
-    item.identifier.chop + '.' + item[:extension]
+    item.identifier.chop + '.printable.' + item[:extension]
   else
     item.identifier.chop + '.printable.html'
   end
