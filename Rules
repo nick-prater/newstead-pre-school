@@ -15,6 +15,7 @@
 
 passthrough '/style.css'
 passthrough '/js/**/*'
+passthrough '/images/**/*'
 
 compile '/prospectus/**/*', :rep => :policy_printable do
   filter :kramdown
