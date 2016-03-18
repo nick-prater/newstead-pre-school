@@ -32,9 +32,7 @@ compile '/facebook/index.md.*', :rep => :policy_printable do
 end
 
 compile '/policies/**/*', :rep => :policy_distribution do
-  if item.binary?
-    # don't filter binary items
-  else 
+  if !item.binary?
     filter :kramdown
     layout '/policy_distribution_record.*'
   end
@@ -42,9 +40,7 @@ end
 
 
 compile '/policies/**/*', :rep => :policy_printable do
-  if item.binary?
-    # don't filter binary items
-  else 
+  if !item.binary?
     filter :kramdown
     layout '/policy_printable.*'
   end
@@ -53,18 +49,14 @@ end
 
 
 compile '/policies/**/*' do
-  if item.binary?
-    # don't filter binary items
-  else 
+  if !item.binary?
     filter :kramdown
     layout '/policy.*'
   end
 end
 
 compile '/**/*' do
-  if item.binary?
-    # don’t filter binary items
-  else
+  if !item.binary?
     filter :kramdown
     layout '/policy.*'
   end
