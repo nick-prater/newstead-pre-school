@@ -1,3 +1,6 @@
+
+enable_output_diff: true
+
 # A list of file extensions that nanoc will consider to be textual rather than
 # binary. If an item with an extension not in this list is found,  the file
 # will be considered as binary.
@@ -33,7 +36,7 @@ prune:
 # hashes; each array element represents a single data source. By default,
 # there is only a single data source that reads data from the “content/” and
 # “layout/” directories in the site directory.
-string_pattern_type: legacy
+string_pattern_type: glob
 data_sources:
   -
     # The type is the identifier of the data source. By default, this will be
