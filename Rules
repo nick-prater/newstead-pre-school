@@ -13,13 +13,8 @@
 #   item, use the pattern “/about/*/”; “/about/*” will also select the parent,
 #   because “*” matches zero or more characters.
 
-compile '/stylesheet.*' do
-  # don’t filter or layout
-end
-
-compile '/js/**/*' do
-  # don't filter or layout
-end
+passthrough '/style.css'
+passthrough '/js/**/*'
 
 compile '/prospectus/**/*', :rep => :policy_printable do
   filter :kramdown
@@ -78,11 +73,6 @@ end
 # Added to stop a crash warning
 # Don't currently understand why it's needed now we moved to nanoc v4
 compile '/.*' do
-end
-
-
-route '/stylesheet.*' do
-  '/style.css'
 end
 
 
@@ -161,9 +151,6 @@ end
 
 
 
-route '/js/**/*' do
-    item.identifier.without_ext + '.' + item[:extension]
-end
 
 route '/**/*' do
   if (item.binary?)
