@@ -19,19 +19,11 @@ passthrough '/images/**/*'
 
 
 # Create printable version of specific pages
-compile '/{prospectus,privacy_notice}*', :rep => :policy_printable do
+compile '/{prospectus,privacy_notice,facebook}/index*', :rep => :policy_printable do
   if !item.binary?
     filter :kramdown
     layout '/policy_printable.*'
-    write item.identifier.without_ext + '/printable.html'
-  end
-end
-
-compile '/facebook/index*', :rep => :policy_printable do
-  if !item.binary?
-    filter :kramdown
-    layout '/policy_printable.*'
-    write '/facebook/printable.html'
+    write '/' + item.identifier.components[0] + '/printable.html'
   end
 end
 
@@ -56,32 +48,7 @@ compile '/policies/**/*', :rep => :policy_printable do
 end
 
 
-# Special handling for root index page
-# /index.md maps to /index.html and is not prettified
-compile '/index*' do 
-  filter :kramdown
-  layout '/policy.*'
-  write '/index.html'
-end
-
-
-# Create 'pretty' urls for top level directory only
-# so /foo.md maps to /foo/index.md
-# I don't really like this, but it's the default and
-# what we used on the original Newstead nanoc site
-compile '/*' do 
-  if item.binary?
-    write item.identifier.to_s
-  else
-    filter :kramdown
-    layout '/policy.*'
-    write item.identifier.without_ext + '/index.html'
-  end
-end
-
-
-# We don't prettify urls in subdirectories
-# so /foo/bar.md maps to /foo/bar.html
+# We don't prettify urls automatically - minimise the secret magic
 compile '/**/*' do
   if item.binary?
     write item.identifier.to_s
