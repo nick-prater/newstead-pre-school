@@ -27,7 +27,7 @@ _The pre-school will be closed for May Day Bank Holiday on Monday 2nd May 2016._
 |:---------------------------|:-------------------------:|:-------------------------:|:--------|
 |                            | Monday 5th September 2016 | Friday 21st October 2016  | 7 weeks
 | Half-term Holiday (closed) | Monday 24th October 2016  | Friday 28th October 2016  | 1 week
-|                            | Monday 31st October 2016  | Friday 21st December 2016 | 7 weeks
+|                            | Monday 31st October 2016  | Friday 16th December 2016 | 7 weeks
 
 ## Spring Term ##
 
